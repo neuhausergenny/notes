@@ -21,3 +21,8 @@ Let's GO
 - "Programming today is a race between software engineers striving to build bigger and better idiot-proof programs, and the universe trying to produce bigger and better idiots. So far, the universe is winning." - Rick Cook
 
 This quote highlights the ongoing challenge for programmers to create user-friendly and robust software, while acknowledging the ever-present potential for unexpected user behavior or unforeseen circumstances that can lead to errors or bugs. It serves as a reminder to continually strive for excellence in programming, while also recognizing the inherent complexity and unpredictability of the systems we create.
+
+# 2023-11-20
+- "Programming today is a race between software engineers striving to build bigger and better idiot-proof programs, and the universe trying to produce bigger and better idiots. So far, the universe is winning." - Rich Cook
+
+This quote highlights the ongoing challenge for programmers to create robust and user-friendly software, while also acknowledging the ever-present possibility of unexpected user behavior or input. It serves as a reminder to always consider the potential for errors and strive for error-resistant programming practices.
