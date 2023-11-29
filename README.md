@@ -60,3 +60,6 @@ To achieve this, you should focus on problem-solving and critical thinking skill
 
 # 2023-11-28
 - "Keep it simple, stupid!"
+
+# 2023-11-29
+- "Programming wisdom for today: Always write code as if the person who will maintain it is a homicidal maniac who knows where you live." This quote by Andrew Hunt and David Thomas emphasizes the importance of writing clean, understandable, and well-documented code to make it easier for others (and your future self) to maintain and debug. It encourages programmers to consider the long-term implications of their code and strive for clarity and readability.
