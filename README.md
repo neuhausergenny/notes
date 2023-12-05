@@ -82,3 +82,6 @@ Remember to stay flexible and adaptable. As you work, things may change, so be p
 
 # 2023-12-04
 - Today's programming wisdom is to write code that is simple, readable, and maintainable. It's easy to get caught up in trying to write complex, clever code, but this often leads to bugs, confusion, and difficulty in making changes later on. Instead, focus on writing code that is easy to understand and modify, using clear and concise variable names, comments, and documentation. This will save you time and headaches in the long run, and make it easier for others to work with your code as well.
+
+# 2023-12-05
+- Today's programming wisdom is to "write code that is easy to delete, not easy to extend." This means that when writing software, it's important to focus on simplicity and clarity rather than trying to anticipate every possible future need. By keeping code concise and well-organized, it will be easier to modify or remove as requirements change, reducing technical debt and maintenance headaches down the line.
