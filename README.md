@@ -85,3 +85,8 @@ Remember to stay flexible and adaptable. As you work, things may change, so be p
 
 # 2023-12-05
 - Today's programming wisdom is to "write code that is easy to delete, not easy to extend." This means that when writing software, it's important to focus on simplicity and clarity rather than trying to anticipate every possible future need. By keeping code concise and well-organized, it will be easier to modify or remove as requirements change, reducing technical debt and maintenance headaches down the line.
+
+# 2023-12-06
+- "Premature optimization is the root of all evil." - Donald Knuth. 
+
+This quote reminds us that optimizing code before it's necessary can often lead to more problems than it solves. It's important to first write clear, understandable code and only optimize when profiling has identified performance bottlenecks.
