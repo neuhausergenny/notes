@@ -146,3 +146,6 @@ This quote reminds us that optimizing code too early in the development process 
 
 # 2023-12-17
 - Today's programming wisdom is: "Premature optimization is the root of all evil" - Donald Knuth. It means that trying to optimize code before it's necessary can often lead to more complexity, bugs, and maintenance issues down the line. It's better to write clear, simple code first, and only optimize when profiling shows that specific parts of the code are causing performance problems.
+
+# 2023-12-18
+- Today's programming wisdom is to write code that is simple, readable, and maintainable. It's easy to get caught up in trying to create complex and clever solutions, but often the best approach is to keep things straightforward and easy to understand. This will make it easier for others to read and work with your code, and also make it less likely that you'll introduce bugs or errors. So when you're coding, remember that simplicity is key!
