@@ -299,3 +299,6 @@ This quote emphasizes the importance of not over-engineering solutions or optimi
 5. Learn new programming Languages: As a developer,it' is essential to be proficient in multiple programming langauges. Learning new languages can help expand your skill set and make you a more valuable asset to any organization. Some popular programming language to consider learning include Python, JavaScript, Ruby, Kotlin, Swift, Go, Rust, Scala, TypeScript, R, SQL, Java, C#, etc
 6. Stay open to feedback and criticism: It'S important to listen to the feedback from your peers and supervisors and take their suggestions into consideration.This will helpyou improveyour skillsand become a better programmer
 7. Don't be afraid to ask for help: If you're stuck on a problem or don' t understand a certain concept, don 't hesitate to reach out to colleagues, friends,or online communities for assistance. Remember, no one becomes an expert overnight, so don ’t feel embarrassed to seek help when needed.
+
+# 2024-01-18
+- "Keep it simple, stupid!"
