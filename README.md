@@ -302,3 +302,9 @@ This quote emphasizes the importance of not over-engineering solutions or optimi
 
 # 2024-01-18
 - "Keep it simple, stupid!"
+
+# 2024-01-19
+- Today's programming wisdom is to be a lifelong learner and adapt to the ever-changing world of technology. This means staying up-to-date with the latest programming languages, tools, and techniques. It also means being open to new ideas and approaches, as well as being willing to ask for help and share knowledge with others.
+
+To be successful in the world or programming, it is essential to have a solid foundation in core concepts, such as data structures, algorithms, computer architecture, operating systems, etc. These concepts will serve as a foundation for your growth and development as an experienced programmer. Additionally, learning how to learn and problem-solving skills are crucial for success in this field. 
+ - 来自NLP
