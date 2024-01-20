@@ -308,3 +308,12 @@ This quote emphasizes the importance of not over-engineering solutions or optimi
 
 To be successful in the world or programming, it is essential to have a solid foundation in core concepts, such as data structures, algorithms, computer architecture, operating systems, etc. These concepts will serve as a foundation for your growth and development as an experienced programmer. Additionally, learning how to learn and problem-solving skills are crucial for success in this field. 
  - 来自NLP
+
+# 2024-01-20
+- Today's programming wisdom is to prioritize tasks, plan your time wisely, and stay organized. This will help you to be more efficient and productive in your work. Here are some tips to help:
+
+1. List your tasks: Start by creating a list of all the tasks you need to complete. It'll help to break them down into smaller, more manageable steps.
+2. Prioritize: Evaluate the importance of each task, giving higher priority to those that are critical to your project' s success. You can use a prioritization matrix to assist with this. 
+3. Allocate time: For each tasks on your list, estimate the time it will take you complete it. Be realistic, but also be conservative with your estimates. Then, allocate time slots in which to work on each of these tasks. Use a calendar or scheduling tool to plan out your day.  
+4. Stay organized: As you work, keep track of your progress. Update your task list and scheduling as needed to reflect your current work status. Using task management tools like Trello or Asana can help with organization.   
+5. Learn from your mistakes: If you find yourself getting behind on tasks or struggling with time management, reflect on what went wrong and adjust your approach. Keep learning and improving as you go.
