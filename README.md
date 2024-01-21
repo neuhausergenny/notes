@@ -317,3 +317,6 @@ To be successful in the world or programming, it is essential to have a solid fo
 3. Allocate time: For each tasks on your list, estimate the time it will take you complete it. Be realistic, but also be conservative with your estimates. Then, allocate time slots in which to work on each of these tasks. Use a calendar or scheduling tool to plan out your day.  
 4. Stay organized: As you work, keep track of your progress. Update your task list and scheduling as needed to reflect your current work status. Using task management tools like Trello or Asana can help with organization.   
 5. Learn from your mistakes: If you find yourself getting behind on tasks or struggling with time management, reflect on what went wrong and adjust your approach. Keep learning and improving as you go.
+
+# 2024-01-21
+- "Keep it simple, stupid!"
