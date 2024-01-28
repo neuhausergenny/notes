@@ -351,3 +351,6 @@ In practice, this means choosing clear abstractions, using established design pa
 - Today's programming wisdom is to be a lifelong learner, always staying up-to-date with the latest technologies and programming languages. This involves reading blogs, articles, and books, attending workshops and conferences, as well as participating in online forums and communities. By staying current, you can better understand the industry trends and develop the skills needed to succeed in your career.
 
 Another important aspect of programming wise is problem-solving skills. When faced with a challenging problem, take a step back, break it down into smaller components, use logic and creativity to come up with solutions, then implement and test them. Practice makes perfect, so keep practicing and refining your problem solving skills to become a better programmer.
+
+# 2024-01-28
+- "Keep it simple, stupid!"
