@@ -500,3 +500,9 @@ Also, "Premature optimization is the root of all evil (or at least most of it) i
 
 # 2024-03-01
 - Today's programming wisdom is to prioritize tasks, plan ahead, and stay organized. This will help you to be more efficient and productive in your work. By prioritizing tasks based on their importance and urgency, you can ensure that you are focusing on the right things and making the most of your time. Planning ahead can help to avoid last-minute emergencies and ensure your projects stay on track. Finally, staying organized by using version control, commenting your code,and following a consistent coding style can lead to a cleaner, more maintainable codebase.
+
+# 2024-03-02
+- Today's programming wisdom is to be a lifelong learner. As technology continues to evolve at an unprecedented pace, it is essential to stay up-to-date with the latest developments and techniques in the field. This means constantly reading blogs, articles, and research papers, attending conferences, workshops, online courses, etc. to gain a deeper understanding of the topics that interest you.
+
+In addition to keeping up with technological advancements, being a good programmer also means being able to work well with others. That means communicating effectively, both verbally and in writing, as well as being willing to listen and learn from others' experiences and knowledge. Teamwork is crucial in any project, but especially in software development, where collaboration is the key to success. 
+ -来自NLP
